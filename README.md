@@ -1,4 +1,4 @@
-## 📘 KB IT's Your Life - Exercise
+## 💻 KB IT's Your Life - Exercise
 
 > 이 저장소는 KB IT's Your Life 부트캠프의 실습 과제를 정리하고 제출하기 위한 공간입니다.  
 > 웹 표준(HTML/CSS), JavaScript, Vue.js, Java 등을 활용한
@@ -15,7 +15,7 @@
 
 ---
 
-### 📊 학습 진도표
+### 📚 학습 진도표
 
 <details>
 <summary>📘 01 - 웹 표준 HTML/CSS/JavaScript</summary>
