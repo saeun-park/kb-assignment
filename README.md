@@ -1,15 +1,16 @@
 ## 📘 KB IT's Your Life - Exercise
 
-> 이 저장소는 배운 내용에 관련하여 풀었던 문제들을 정리한 공간입니다.  
-> VSCode, IntelliJ를 함께 사용하며 웹 개발 전반을 실습합니다.
+> 이 저장소는 KB IT's Your Life 부트캠프의 실습 과제를 정리하고 제출하기 위한 공간입니다.
+> 웹 표준(HTML/CSS), JavaScript, Vue.js, Java 등을 활용한 프론트엔드 및 백엔드 개발 실습 과제를 정리합니다.
+
 
 ---
 
 ### 📁 폴더 구조
 
-- 웹 표준(html-css-javascript) | HTML & CSS & JS 기본/심화 실습
-- 웹 인터페이스(node-vue) | Node.js & Vue 기본/심화 실습
-- 백엔드 개발을 위한 자바 프로그래밍(java) | Java 기본 / 심화 실습
+- 웹 표준(html-css-javascript) : HTML & CSS & JS 기본/심화 실습
+- 웹 인터페이스(node-vue) : Node.js & Vue 기본/심화 실습
+- 백엔드 개발을 위한 자바 프로그래밍(java) : Java 기본 / 심화 실습
 
 ---
 
