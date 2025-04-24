@@ -7,9 +7,9 @@
 
 ### 📁 폴더 구조
 
-- 웹 표준(html-css-javascript) – HTML & CSS & JS 기본/심화 실습
-- 웹 인터페이스(node-vue) – Node.js & Vue 기본/심화 실습
-- 백엔드 개발을 위한 자바 프로그래밍(java) – Java 기본 / 심화 실습
+- 웹 표준(html-css-javascript) | HTML & CSS & JS 기본/심화 실습
+- 웹 인터페이스(node-vue) | Node.js & Vue 기본/심화 실습
+- 백엔드 개발을 위한 자바 프로그래밍(java) | Java 기본 / 심화 실습
 
 ---
 
