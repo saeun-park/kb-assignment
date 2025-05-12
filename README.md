@@ -13,6 +13,7 @@
 - 웹 인터페이스(node-vue) : Node.js & Vue 기본/심화 실습
 - 백엔드 개발을 위한 자바 프로그래밍(java) : Java 기본/심화 실습
 - MySQL 기반 RDBMS 활용과 JDBC : SQL 기본/심화 실습
+- NoSQL 기반 MongoDB : MongoDB 기본/심화 실습
 
 ---
 
@@ -88,5 +89,15 @@
 | 06 인덱스, 사용자 관리                | `06_SQL(기본)`    | ☐   | `06_SQL(심화)`    | ☐   |
 | 07 Java 연동 JDBC 프로그래밍          | `07_SQL(기본)`    | ☐   | `07_SQL(심화)`    | ☐   |
 | 08 Java 연동 JDBC 프로그래밍 - Travel | `08_SQL(기본)`    | ☐   | `08_SQL(심화)`    | ☐   |
+
+</details>
+
+<details>
+<summary>📒 05 - NoSQL 기반 MongoDB</summary>
+
+| 항목                  | 기본 디렉토리     | 제출 | 심화 디렉토리     | 제출 |
+|-----------------------|--------------------|:----:|--------------------|:----:|
+| 01 MongoDB            | `01_MONGO(기본)`   | ☐   | `01_MONGO(심화)`   | ☐   |
+| 02 몽고DB Java 연동   | `02_MONGO(기본)`   | ☐   | `02_MONGO(심화)`   | ☐   |
 
 </details>
