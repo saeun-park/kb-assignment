@@ -81,7 +81,7 @@
 | 05 테이블, 뷰                         | `05_MySQL(기본)`    |   O  | `05_MySQL(심화)`    |  O   |
 | 06 인덱스, 사용자 관리                | `06_MySQL(기본)`    |  O   | `06_MySQL(심화)`    |  O   |
 | 07 Java 연동 JDBC 프로그래밍          | `07_MySQL(기본)`    |  O   | `07_MySQL(심화)`    |     |
-| 08 Java 연동 JDBC 프로그래밍 - Travel | `08_MySQL(기본)`    |     | `08_MySQL(심화)`    |     |
+| 08 Java 연동 JDBC 프로그래밍 - Travel | `08_MySQL(기본)`    |  O   | `08_MySQL(심화)`    |     |
 
 </details>
 
