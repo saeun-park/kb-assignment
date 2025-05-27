@@ -86,7 +86,7 @@
 </details>
 
 <details>
-<summary>📘 05 - NoSQL 기반 MongoDB <code>시작전</code></summary>
+<summary>📘 05 - NoSQL 기반 MongoDB <code>진행중</code></summary>
 <br>
 
 | 항목                  | 기본 디렉토리     | 제출 | 심화 디렉토리     | 제출 |
