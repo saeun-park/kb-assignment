@@ -69,7 +69,7 @@
 </details>
 
 <details>
-<summary>📗 04 - MySQL 기반 RDBMS 활용과 JDBC <code>진행중</code></summary>
+<summary>📗 04 - MySQL 기반 RDBMS 활용과 JDBC <code>완료</code></summary>
 <br>
 
 | 항목                                | 기본 디렉토리       | 제출 | 심화 디렉토리       | 제출 |
