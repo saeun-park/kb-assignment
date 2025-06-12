@@ -116,9 +116,10 @@
 
 | 항목                               | 기본 디렉토리       | 제출 | 심화 디렉토리       | 제출 |
 |------------------------------------|----------------------|:----:|----------------------|:----:|
-| 01 Spring 이해                      | `01_Spring(기본)`     |   O   | `01_Spring(심화)`     |      |
-| 02 Spring MVC                      | `02_Spring(기본)`     |   O   | `02_Spring(심화)`     |   O   |
-| 03 Spring-MyBatis 연동             | `03_Spring(기본)`     |      | `03_Spring(심화)`     |      |
+| 01 Spring 이해                      | `01_Spring(기본)`     |  O   | `01_Spring(심화)`     |      |
+| 02 Spring MVC                      | `02_Spring(기본)`     |  O   | `02_Spring(심화)`     |  O   |
+| 02-2 Spring MVC                 |  `02-2_Spring(기본)`   |   O   | `02-2_Spring(심화)`   |      |
+| 03 Spring-MyBatis 연동             | `03_Spring(기본)`     |  O   | `03_Spring(심화)`     |      |
 | 04 Spring 기본 게시판              | `04_Spring(기본)`     |      | `04_Spring(심화)`     |      |
 | 05 Spring 기본 게시판, 파일 업로드 | `05_Spring(기본)`     |      | `05_Spring(심화)`     |      |
 | 06 Rest                            | `06_Spring(기본)`     |      | `06_Spring(심화)`     |      |
