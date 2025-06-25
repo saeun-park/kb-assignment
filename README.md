@@ -10,7 +10,7 @@
 ### 📚 학습 진도표
 
 <details>
-<summary>📕 01 - 웹 표준 HTML/CSS/JavaScript <code>기본, 심화 완료</code></summary>
+<summary>📕 01 - 웹 표준 HTML/CSS/JavaScript <code>기본,심화 완료</code></summary>
 <br>
 
 | 항목                      | 기본 디렉토리     | 제출 | 심화 디렉토리     | 제출 |
@@ -25,7 +25,7 @@
 </details>
 
 <details>
-<summary>📙 02 - 웹 인터페이스 구축을 위한 Vue.js <code>기본, 심화 완료</code></summary>
+<summary>📙 02 - 웹 인터페이스 구축을 위한 Vue.js <code>기본,심화 완료</code></summary>
 <br>
 
 | 항목                     | 기본 디렉토리         | 제출 | 심화 디렉토리         | 제출 |
@@ -47,7 +47,7 @@
 </details>
 
 <details>
-<summary>📒 03 - 백엔드 개발을 위한 자바 프로그래밍 <code>기본, 심화 완료</code></summary>
+<summary>📒 03 - 백엔드 개발을 위한 자바 프로그래밍 <code>기본,심화 완료</code></summary>
 <br>
 
 | 항목                                | 기본 디렉토리     | 제출 | 심화 디렉토리     | 제출 |
