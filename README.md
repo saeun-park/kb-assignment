@@ -125,7 +125,7 @@
 | 06 Rest + 07 OpenAPI              | `067_Spring(기본)`     |   O   | `067_Spring(심화)`     |      |
 | 08 Spring AOP                      | `08_Spring(기본)`     |   O   | `08_Spring(심화)`     |  O    |
 | 09 Spring Security Form 인증       | `09_Spring(기본)`     |   O   | `09_Spring(심화)`     |  O    |
-| 10 Spring Security JWT 인증        | `10_Spring(기본)`     |      | `10_Spring(심화)`     |      |
+| 10 Spring Security JWT 인증        | `10_Spring(기본)`     |   O   | `10_Spring(심화)`     |   O   |
 | 11 Spring Security JWT 인증2       | `11_Spring(기본)`     |  O    | `11_Spring(심화)`     |      |
 
 </details>
