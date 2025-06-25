@@ -122,8 +122,7 @@
 | 03 Spring-MyBatis 연동             | `03_Spring(기본)`     |  O   | `03_Spring(심화)`     |      |
 | 04 Spring 기본 게시판              | `04_Spring(기본)`     |  O    | `04_Spring(심화)`     |   O   |
 | 05 Spring 기본 게시판, 파일 업로드 | `05_Spring(기본)`     |   O   | `05_Spring(심화)`     |   O   |
-| 06 Rest                            | `06_Spring(기본)`     |   O   | `06_Spring(심화)`     |      |
-| 07 OpenAPI                         | `07_Spring(기본)`     |      | `07_Spring(심화)`     |      |
+| 06 Rest + 07 OpenAPI              | `067_Spring(기본)`     |   O   | `067_Spring(심화)`     |      |
 | 08 Spring AOP                      | `08_Spring(기본)`     |      | `08_Spring(심화)`     |      |
 | 09 Spring Security Form 인증       | `09_Spring(기본)`     |   O   | `09_Spring(심화)`     |  O    |
 | 10 Spring Security JWT 인증        | `10_Spring(기본)`     |      | `10_Spring(심화)`     |      |
