@@ -106,7 +106,7 @@
 | 02 JSP의 이해                | `02_JSP(기본)`     |  O    | `02_JSP(심화)`     |      |
 | 03 서블릿 심화               | `03_JSP(기본)`     |  O    | `03_JSP(심화)`     |      |
 | 04 요청 포워딩, EL, JSTL     | `04_JSP(기본)`     |  O    | `04_JSP(심화)`     |      |
-| 05 FrontController           | `05_JSP(기본)`     |      | `05_JSP(심화)`     |      |
+| 05 FrontController           | `05_JSP(기본)`     |   O   | `05_JSP(심화)`     |      |
 
 </details>
 
