@@ -127,6 +127,6 @@
 | 08 Spring AOP                      | `08_Spring(기본)`     |      | `08_Spring(심화)`     |      |
 | 09 Spring Security Form 인증       | `09_Spring(기본)`     |   O   | `09_Spring(심화)`     |  O    |
 | 10 Spring Security JWT 인증        | `10_Spring(기본)`     |      | `10_Spring(심화)`     |      |
-| 11 Spring Security JWT 인증2       | `11_Spring(기본)`     |      | `11_Spring(심화)`     |      |
+| 11 Spring Security JWT 인증2       | `11_Spring(기본)`     |  O    | `11_Spring(심화)`     |      |
 
 </details>
