@@ -1,7 +1,7 @@
 ## 💻 KB IT's Your Life - Exercise
 
 > 이 저장소는 KB IT's Your Life 부트캠프의 실습 과제를 정리하고 제출하기 위한 공간입니다.  
-> HTML/CSS/JavaScript, Vue.js, Java, SQL, JSP/Servlet, Spring 등을 활용한
+> HTML/CSS/JavaScript, Vue.js, Java, SQL, JSP/Servlet, Spring 등을 활용한  
 > 프론트엔드 및 백엔드 개발 실습 과제를 정리합니다.
 
 
