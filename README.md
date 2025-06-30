@@ -5,6 +5,7 @@
 > 프론트엔드 및 백엔드 개발 실습 과제를 정리합니다.
 
 
+
 ---
 
 ### 📚 학습 진도표
@@ -129,3 +130,27 @@
 | 11 Spring Security JWT 인증2       | `11_Spring(기본)`     |  O    | `11_Spring(심화)`     |      |
 
 </details>
+
+---  
+### Git 작업 기본 명령어
+1. 터미널에서 프로젝트 폴더로 이동  
+```bash
+cd kb-assignment
+```
+2.	변경된 파일 상태 확인 
+```bash
+git status
+```
+3.	변경 내용 스테이지에 추가 (삭제/이동/수정 모두 포함) 
+```bash
+git add -A
+```
+4.	커밋하기
+```bash
+git commit -m "커밋 메시지"
+```
+5.	원격 저장소에 푸시하기 (main 브랜치 예시)
+```bash
+git push origin main
+```
+
