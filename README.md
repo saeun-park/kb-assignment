@@ -8,10 +8,10 @@
 
 ---
 
-### 📚 학습 진도표
+### 🆕 학습 진도표
 
 <details>
-<summary>📕 01 - 웹 표준 HTML/CSS/JavaScript <code>기본,심화 완료</code></summary>
+<summary>01 - 웹 표준 HTML/CSS/JavaScript <code>기본,심화 완료</code></summary>
 <br>
 
 | 항목                      | 기본 디렉토리     | 제출 | 심화 디렉토리     | 제출 |
@@ -26,7 +26,7 @@
 </details>
 
 <details>
-<summary>📙 02 - 웹 인터페이스 구축을 위한 Vue.js <code>기본,심화 완료</code></summary>
+<summary>02 - 웹 인터페이스 구축을 위한 Vue.js <code>기본,심화 완료</code></summary>
 <br>
 
 | 항목                     | 기본 디렉토리         | 제출 | 심화 디렉토리         | 제출 |
@@ -48,7 +48,7 @@
 </details>
 
 <details>
-<summary>📒 03 - 백엔드 개발을 위한 자바 프로그래밍 <code>기본,심화 완료</code></summary>
+<summary>03 - 백엔드 개발을 위한 자바 프로그래밍 <code>기본,심화 완료</code></summary>
 <br>
 
 | 항목                                | 기본 디렉토리     | 제출 | 심화 디렉토리     | 제출 |
@@ -70,7 +70,7 @@
 </details>
 
 <details>
-<summary>📗 04 - MySQL 기반 RDBMS 활용과 JDBC <code>기본 완료</code></summary>
+<summary>04 - MySQL 기반 RDBMS 활용과 JDBC <code>기본 완료</code></summary>
 <br>
 
 | 항목                                | 기본 디렉토리       | 제출 | 심화 디렉토리       | 제출 |
@@ -87,7 +87,7 @@
 </details>
 
 <details>
-<summary>📘 05 - NoSQL 기반 MongoDB <code>진행중</code></summary>
+<summary>05 - NoSQL 기반 MongoDB <code>진행중</code></summary>
 <br>
 
 | 항목                  | 기본 디렉토리     | 제출 | 심화 디렉토리     | 제출 |
@@ -98,7 +98,7 @@
 </details>
 
 <details>
-<summary>📔 06 - Servlet, JSP, JSTL 기반 서버 프로그래밍 <code>기본 완료</code></summary>
+<summary>06 - Servlet, JSP, JSTL 기반 서버 프로그래밍 <code>기본 완료</code></summary>
 <br>
 
 | 항목                         | 기본 디렉토리     | 제출 | 심화 디렉토리     | 제출 |
@@ -112,7 +112,7 @@
 </details>
 
 <details>
-<summary>📓 07 - Spring Framework를 활용한 애플리케이션 개발 <code>기본 완료</code></summary>
+<summary>07 - Spring Framework를 활용한 애플리케이션 개발 <code>기본 완료</code></summary>
 <br>
 
 | 항목                               | 기본 디렉토리       | 제출 | 심화 디렉토리       | 제출 |
@@ -130,6 +130,19 @@
 | 11 Spring Security JWT 인증2       | `11_Spring(기본)`     |  O    | `11_Spring(심화)`     |      |
 
 </details>
+<details>
+<summary>08 - Spring - Vue 연동 <code>진행중</code></summary>
+<br>
+
+| 항목                               | 기본 디렉토리       | 제출 | 심화 디렉토리       | 제출 |
+|------------------------------------|----------------------|:----:|----------------------|:----:|
+| 01 프로젝트 준비                     | `01_Spring(기본)`     |     | `01_Spring(심화)`     |      |
+| 02 회원관리1 - 회원가입, 로그인                      | `02_Spring(기본)`     |  O   | `02_Spring(심화)`     |    |
+
+
+</details>
+
+
 
 ---  
 ### Git 작업 기본 명령어
